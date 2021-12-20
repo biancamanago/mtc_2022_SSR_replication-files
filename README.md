@@ -13,8 +13,8 @@ Here are all of the statistical replication files for the manuscript. Currently 
 Here are the experimental replication files for the manuscript.
 
 ### _Experiment 1_
-Experiment 1 was conducted in zTree and you can access those files for all conditions here.
-The experimental conditions are listed in the file names. 
+Experiment 1 was conducted in zTree and you can access those files for all conditions [here] (https://github.com/biancamanago/mtc_2022_SSR_replication-files/blob/94b2681d0e2a531bb1d714b11242dc276a7f439c/ztree.zip).
+The experimental conditions are listed in the file names, see below for naming conventions. 
 
 
 ### _Experiment 2_
