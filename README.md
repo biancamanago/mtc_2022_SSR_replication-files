@@ -1,6 +1,6 @@
 # Replication Files
 
-Manago, Bianca and Trenton Mize. Forth. The Status and Stigma Consequences of Mental Illness Labels, Deviant Behavior, and Fear. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Social Science Research_
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manago, Bianca and Trenton Mize. Forth. The Status and Stigma Consequences of Mental Illness Labels, <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Deviant Behavior, and Fear. _Social Science Research_
 
 
 Below, we provide the files to replicate the analyses and the files to replicate the experimental protocols for Experiments 1 and 2. Please reach out to the first author bianca.manago@vanderbilt.edu with any questions, comments, or concerns.
