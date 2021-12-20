@@ -3,9 +3,9 @@
 &nbsp;&nbsp;&nbsp; Below, we provide the files to replicate the analyses and the experimental protocols for our paper:
 <br>
 <br>
-<font size="6">
+<font size="7">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manago, Bianca and Trenton Mize. Forth. "The Status and Stigma Consequences of Mental Illness Labels, <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Deviant Behavior, and Fear." <i>Social Science Research</i>
-</font>  
+</font>
 <br>
 <br>
 &nbsp;&nbsp;&nbsp; Please reach out to the first author bianca.manago@vanderbilt.edu with any questions, comments, or concerns.
