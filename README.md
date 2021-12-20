@@ -18,7 +18,7 @@ The experimental conditions are listed in the file names, see below for naming c
 
 
 ### _Experiment 2_
-Experiment 2 was conducted on qualtrics. The .qsf file allows you to conduct the same study without any additional programming.
+Experiment 2 was conducted on qualtrics. The [.qsf file](https://github.com/biancamanago/mtc_2022_SSR_replication-files/blob/125698aa203e18104ac4ee5d22f7a08eabb91f29/mtc-E2-SSR_Replication.qsf) allows you to conduct the same study without any additional programming.
 
 ## Naming Conventions
 E1 indicates Experiment 1.
