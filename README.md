@@ -21,6 +21,9 @@ The experimental conditions are listed in the file names.
 Experiment 2 was conducted on qualtrics. The .qsf file allows you to conduct the same study without any additional programming.
 
 ## Naming Conventions
+E1 indicates Experiment 1.
+E2 indicates Experiment 2.
+
 ### _Illness Names_
 - SAD = Social Awareness Disorder
 - EAD = Erratic Affect Disorder
