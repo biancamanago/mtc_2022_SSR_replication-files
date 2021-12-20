@@ -1,8 +1,8 @@
-# The Status and Stigma Consequences of Mental Illness Labels, Deviant Behavior, and Fear
-## _Social Science Research_ 2022
+# Replication Files
+Manago, Bianca and Trenton Mize. Forthcoming. The Status and Stigma Consequences of Mental Illness Labels, Deviant Behavior, and Fear.
+_Social Science Research_
 
 Below, we provide the files to replicate the analyses and the files to replicate the experimental protocols for Experiments 1 and 2. Please reach out to the first author bianca.manago@vanderbilt.edu with any questions, comments, or concerns.
-
 
 ## Statistical Replication Files
 Here are all of the statistical replication files for the manuscript. Currently available in Stata. 
