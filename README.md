@@ -11,14 +11,14 @@ Below, we provide the files to replicate the analyses and the experimental proto
 Please reach out to the first author bianca.manago@vanderbilt.edu with any questions, comments, or concerns.
 <br>
 <br>
+<hr/> 
 
 ## Statistical Replication Files
 Here are all of the statistical replication files for the manuscript. Currently available in Stata. 
 
 [work.zip](https://github.com/biancamanago/mtc_SSR_replication/blob/5f63fe006dbf6e94ae9f75e59ac76c5f24f729ae/work.zip)
-<br>
-<br>
 
+<hr/> 
 
 ## Experimental Replication Files
 Here are the experimental replication files for the manuscript.
@@ -31,8 +31,7 @@ The experimental conditions are listed in the file names, see below for naming c
 ### <i>Experiment 2</i>
 Experiment 2 was conducted on qualtrics. The [.qsf file](https://github.com/biancamanago/mtc_2022_SSR_replication-files/blob/125698aa203e18104ac4ee5d22f7a08eabb91f29/mtc-E2-SSR_Replication.qsf) allows you to conduct the same study without any additional programming.
 
-<br>
-<br>
+<hr/> 
 
 ## Naming Conventions
 E1 indicates Experiment 1.
