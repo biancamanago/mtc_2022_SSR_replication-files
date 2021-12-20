@@ -24,7 +24,8 @@
 &nbsp;&nbsp;&nbsp; Here are the experimental replication files for the manuscript.
 
 ### <i>Experiment 1</i>
-&nbsp;&nbsp;&nbsp; Experiment 1 was conducted in zTree and you can access those files for all conditions [here](https://github.com/biancamanago/mtc_2022_SSR_replication-files/blob/94b2681d0e2a531bb1d714b11242dc276a7f439c/ztree.zip).
+&nbsp;&nbsp;&nbsp; Experiment 1 was conducted in zTree and you can access those files for all conditions [here](https://github.com/biancamanago/mtc_2022_SSR_replication-files/blob/94b2681d0e2a531bb1d714b11242dc276a7f439c/ztree.zip). <br>
+
 &nbsp;&nbsp;&nbsp; The experimental conditions are listed in the file names, see below for naming conventions. 
 
 
