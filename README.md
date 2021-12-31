@@ -23,20 +23,12 @@
 ## Experimental Replication Files
 &nbsp;&nbsp;&nbsp; Here are the experimental replication files for the manuscript.
 
-### <i>Experiment 1</i>
-&nbsp;&nbsp;&nbsp; Experiment 1 was conducted in zTree and you can access those files for all conditions [here](https://github.com/biancamanago/mtc_2022_SSR_replication-files/blob/94b2681d0e2a531bb1d714b11242dc276a7f439c/ztree.zip). <br>
+### <i>Lab Experiment</i>
+&nbsp;&nbsp;&nbsp; The lab experiment was conducted in zTree and you can access those files for all conditions [here](https://github.com/biancamanago/mtc_2022_SSR_replication-files/blob/94b2681d0e2a531bb1d714b11242dc276a7f439c/ztree.zip). <br>
 
 &nbsp;&nbsp;&nbsp; The experimental conditions are listed in the file names, see below for naming conventions. 
 
-
-### <i>Experiment 2</i>
-&nbsp;&nbsp;&nbsp; Experiment 2 was conducted on qualtrics. The [.qsf file](https://github.com/biancamanago/mtc_2022_SSR_replication-files/blob/125698aa203e18104ac4ee5d22f7a08eabb91f29/mtc-E2-SSR_Replication.qsf) allows you to conduct the same study without any additional programming.
-
 <hr/> 
-
-## Naming Conventions
-- E1 indicates Experiment 1.
-- E2 indicates Experiment 2.
 
 ### <i>Illness Names</i>
 - SAD = Social Awareness Disorder
